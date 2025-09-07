@@ -1,0 +1,1 @@
+建议使用VSCode进行开发，或者在./hwfsum打开cmd或powershell或者shell，然后bash(powershell或shell)使用./gradlew clean来清除错误的东西，接着./gradlew --U来更新修改的内容，./gradlew build来构建，如果你用batch(cmd)那就是gradlew clean、gradlew --U、/gradlew build，然后构建的文件在./hwfsum/build/libs
