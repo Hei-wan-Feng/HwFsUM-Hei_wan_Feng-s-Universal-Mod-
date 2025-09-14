@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hwfsum:block/white_colorful_lamp"
+  }
+}
