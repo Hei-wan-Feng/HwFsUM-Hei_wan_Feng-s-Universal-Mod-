@@ -1,1 +1,1 @@
-建议使用VSCode进行开发，或者在./hwfsum打开cmd或powershell或者shell，然后bash(powershell或shell)使用./gradlew clean来清除错误的东西，接着./gradlew --U来更新修改的内容，./gradlew build来构建，如果你用batch(cmd)那就是gradlew clean、gradlew --U、/gradlew build，然后构建的文件在./hwfsum/build/libs
+建议使用VSCode进行开发，或者在./hwfsum打开cmd或powershell或者shell，然后bash(powershell或shell)使用./gradlew clean来清除错误的东西，接着./gradlew --U来更新修改的内容，./gradlew build来构建，如果你用batch(cmd)那就是gradlew clean、gradlew --U、/gradlew build，然后构建的文件在./hwfsum/build/libs，hwfsum 1.0.0.zip因为不会创建文件夹还有拉取文件夹，所以直接压成了压缩包上传，不过，早已在hwfsumversions有了更新的版本，不妨看看？但是1.0.1目前仍有bug，那就是虽然里面写了代码，但是进到游戏里内容不生效
